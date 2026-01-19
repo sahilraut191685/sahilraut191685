@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉ *sahilraut200619@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 *I’m currently working on: AgriSoul
+- 🔭 *I’m currently working on: Studing FastApi
 - 🌱 *I’m currently learning:* Javascript & JAVA Dsa
 - 📫 *How to reach me:* sahilraut200619@gmail.com
 - 😄 *Pronouns:* Sahil
