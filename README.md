@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉ *sahilraut200619@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 *I’m currently working on: Studing FastApi
-- 🌱 *I’m currently learning:* Javascript & JAVA Dsa
+- 🔭 *I’m currently working on: NONE
+- 🌱 *I’m currently learning:* Javascript & JAVA Dsa& fastapi
 - 📫 *How to reach me:* sahilraut200619@gmail.com
 - 😄 *Pronouns:* Sahil
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
