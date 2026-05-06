@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sahil Raut
 
 
-*A passionate  Engineer|| Dr. D.Y Patil Institute Of Technology Pimpri, Pune || INDIA
+
 
 Email Me 👉 ✉ *sahilraut200619@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
