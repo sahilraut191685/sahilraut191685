@@ -6,8 +6,8 @@
 Email Me 👉 ✉ *sahilraut200619@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 
-- 🔭 *I’m currently working on: node/express 
-- 🌱 *I’m currently learning:* backend 
+- 🔭 *I’m currently working on: cyber-samachar pvt 
+- 🌱 *I’m currently learning:* backend (node/express)
 - 📫 *How to reach me:* sahilraut200619@gmail.com
 - 😄 *Pronouns:* Sahil
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
