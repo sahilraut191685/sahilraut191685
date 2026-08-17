@@ -29,6 +29,22 @@
 [![An image of @sahilraut191685's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilraut191685)](https://holopin.io/@sahilraut191685)
 
 
+## 🌐 Open Source Contributions
+
+Actively contributing to open-source projects through bug fixes, testing, and collaborative development.
+
+### 🏆 Achievements
+
+- 🥇 **Hacktoberfest 2025 — Super Contributor** — Completed Hacktoberfest challenges and earned the Super Contributor achievement
+- 🔧 **Multer** — Contributed bug fixes and improved test coverage
+- 💬 Collaborated with maintainers through code reviews and incorporated feedback
+- 🧪 Focused on reliable, maintainable, and well-tested backend code
+
+### 🛠️ Open Source Focus
+
+`Node.js` · `Express.js` · `JavaScript` · `Backend Development` · `Testing` · `Open Source`
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sahilraut191685&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
