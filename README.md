@@ -2,7 +2,7 @@
 
 📧 Email me at *sahilraut200619@gmail.com* for collaboration, projects, or anything else 😊
 
-- 🔭 *I'm currently working in:
+- 🔭 *I'm Open To Work 
 - 🌱 *I'm currently learning:* Backend Development (Node.js / Express)
 - 📫 *How to reach me:* sahilraut200619@gmail.com
 - 😄 *Pronouns:* He/Him
