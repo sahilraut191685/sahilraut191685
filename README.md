@@ -33,12 +33,12 @@
 
 Actively contributing to open-source projects through bug fixes, testing, and collaborative development.
 
-### 🏆 Achievements
+### 🏆 Achievements & Open Source Contributions
 
-- 🥇 **Hacktoberfest 2025 — Super Contributor** — Completed Hacktoberfest challenges and earned the Super Contributor achievement
-- 🔧 **Multer** — Contributed bug fixes and improved test coverage
-- 💬 Collaborated with maintainers through code reviews and incorporated feedback
-- 🧪 Focused on reliable, maintainable, and well-tested backend code
+- 🥇 **Hacktoberfest 2025 — Super Contributor:** Successfully completed Hacktoberfest challenges and earned the Super Contributor achievement.
+- 🚀 **Multer — Open Source Contributor:** Successfully submitted a Pull Request to [Multer](https://github.com/expressjs/multer), contributing bug fixes and improvements.
+- 🔍 **Code Reviews & Collaboration:** Worked with project maintainers, addressed review feedback, and followed open-source contribution standards.
+- 🧪 **Backend Engineering:** Focused on writing clean, reliable, maintainable, and well-tested backend code.
 
 ### 🛠️ Open Source Focus
 
